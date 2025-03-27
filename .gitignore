@@ -1,0 +1,14 @@
+# Ignore Binaries
+/bin/
+
+# Ignore Object Files
+/obj/
+
+# Ignore Library Files
+/libraries/
+
+# Ignore Premake Files
+/Makefile
+/*.make
+
+

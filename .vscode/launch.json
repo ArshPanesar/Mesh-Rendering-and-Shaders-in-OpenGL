@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "preLaunchTask": "Build the Project's MakeFile",
+            "type": "lldb",
+            "request": "launch",
+            "name": "Launch (Debug with lldb)",
+            "program": "${workspaceFolder}\\bin\\Debug\\Shaders.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
