@@ -3,6 +3,45 @@
 
 This project was done as part of an assignment in a Computer Graphics course.
 
+## Images
+
+The Scene
+
+![default-view](https://github.com/user-attachments/assets/30610be6-ebb8-4a88-a1e5-954623616383)
+
+Perspective Projection
+
+![pers-proj](https://github.com/user-attachments/assets/7ca5e2b1-c3be-4dcd-a625-0759e21fe625)
+
+---
+
+Visualizing the Depth Buffer
+
+Before
+
+![before-depth-shader](https://github.com/user-attachments/assets/d0ac88c8-df24-46f9-90d6-a01c2dcf6b6d)
+
+After
+
+![after-depth-shader](https://github.com/user-attachments/assets/f78f2044-3233-4861-a6d1-f9bd930aa586)
+
+---
+
+Shaders
+
+Gouraud Shaders
+
+![gouraud](https://github.com/user-attachments/assets/b78011b5-a770-4146-b2ac-836b00fa5e0d)
+
+Phong Shaders
+
+![phong](https://github.com/user-attachments/assets/134962fd-f0cc-48e7-a827-ff7f8a2c1652)
+
+Flat Shaders
+
+![flat](https://github.com/user-attachments/assets/dd7f0e03-dd92-4822-8406-1f9620625933)
+
+
 ## Controls
 
 - **W**: Translate in the +Y Direction
